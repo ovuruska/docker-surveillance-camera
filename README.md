@@ -1,1 +1,1 @@
-# mock-ip-camera
+# docker-surveillance-camera
